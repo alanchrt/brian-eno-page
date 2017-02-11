@@ -16,7 +16,6 @@ body {
 
 .main-header {
   width: 825px;
-  height: 775px;
   border-radius: 5px;
   background-color: #C8C8C8;
 }
@@ -41,6 +40,14 @@ body {
     font-family: Montserrat;
     line-height: 0;
     }
+
+  figure{
+    margin: 0;
+  }
+
+  figcaption{
+    padding: 5px;
+  }
 
   #images{
     text-align:center;
